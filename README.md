@@ -8,7 +8,7 @@
 ### 🌐 Connect with me : 
  <a href="mailto:saumya.singh203@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
  <a href="https://www.linkedin.com/in/saumyasingh203/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://www.facebook.com/sharer/sharer.php?u=https://www.facebook.com/Saumya.Singh2000/"><img src="https://devicon.dev/devicon.git/icons/facebook/facebook-original.svg" width="32px" alt="Facebook"></a> &nbsp; &nbsp;
+ <a href="https://www.instagram.com/saumya._.singh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px" alt="Instagram" /></a> &nbsp; &nbsp;
 
 
 ### Languages and Frameworks: 
