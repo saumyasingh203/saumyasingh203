@@ -1,12 +1,11 @@
 # Ciao❤️
 #### My name is Saumya Singh and I am a Software Developer and Debater based in New Delhi, India.
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (NSIT).
+I also represented India and Delhi University at Singapore Model United Nations 2019 (SMUN) held at the National University of Singapore (NUS) and won the Honorable Mention Award.
 
-I also represented India and the Delhi University at the Singapore Model United Nations 2019 (SMUN) held at the National University of Singapore(NUS) and won the Honorable Mention Award along with the Best Delegation Award.
-
-- 👨‍💻 I'm currently working as a **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/).
-- 👨‍🎓 I'm an Electronics and Communication engineering sophomore at **NSUT, Delhi**.
-- 💡 I'm **currently exploring** Machine Learning.
+- 👨‍💻 Currently working as a **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/).
+- 👨‍🎓 Electronics and Communication engineering sophomore at **NSUT, Delhi**.
+- 💡 **Currently exploring** Machine Learning.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 - 😄 **Pronouns**: She/Her
 
