@@ -1,33 +1,44 @@
+<a href="https://www.linkedin.com/in/saumyasingh203" target="_blank" rel="nofollow"><img align="right" alt="Saumya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+<a href="https://www.instagram.com/saumya._.singh" target="_blank" rel="nofollow"><img align="right" alt="Saumya's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
+
 ## Ciao! I'm Saumya Singh ❤️
-### I'm a Software Developer and Debater from Delhi, India.
+### I'm a Software Developer and Debater based in Delhi, India.
+I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (NSIT).
+
+I also represented India and the Delhi University at the Singapore Model United Nations 2019 (SMUN) held at the National University of Singapore(NUS) and won the Honorable Mention Award along with the Best Delegation Award.
+
 - 👨‍💻 I'm currently working as a **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/).
-- 👨‍🎓 I'm an Electronic and communication engineering sophomore at **NSUT, Delhi**.
+- 👨‍🎓 I'm an Electronics and Communication engineering sophomore at **NSUT, Delhi**.
 - 💡 I'm **currently exploring** Machine Learning.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
 - 😄 **Pronouns**: She/Her
-### 🌐 Connect with me : 
- <a href="mailto:saumya.singh203@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
- <a href="https://www.linkedin.com/in/saumyasingh203/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
- <a href="https://www.instagram.com/saumya._.singh/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="32px" alt="Instagram" /></a> &nbsp; &nbsp;
 
 
-### Languages and Frameworks: 
-<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></p>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=java,php&theme=jolly&langs_count=8">
+</p>
 
 
+### Languages and Frameworks:
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png" title="AWS"/></code>
+<code><img width="40px" src="https://img.icons8.com/ios/4x/00758f/mysql-logo.png" title="MySQL"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" title="javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="mongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
+
+### 🌐 Connect with me 
+<code><img width="40px" href="https://www.linkedin.com/in/saumyasingh203/" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></code>
+<code><img width="40px" href="https://www.instagram.com/saumya._.singh" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Insta"/></code>
+<code><img width="40px" href="mailto:saumya.singh203@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Insta"/></code>
