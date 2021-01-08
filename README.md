@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/saumyasingh203" target="_blank" rel="nofollow"><img align="right" alt="Saumya's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <a href="https://www.instagram.com/saumya._.singh" target="_blank" rel="nofollow"><img align="right" alt="Saumya's Insta" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
 
-## Ciao! I'm Saumya Singh ❤️
+## Ciao❤️
 ### I'm a Software Developer and Debater based in Delhi, India.
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (NSIT).
 
