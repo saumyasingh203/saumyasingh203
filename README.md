@@ -1,5 +1,5 @@
 # Ciao❤️
-#### My name is Saumya Singh and I am a Software Developer and Debater based in New Delhi, India.
+### My name is Saumya Singh and I am a Software Developer and Debater based in New Delhi, India.
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (NSIT).
 I also represented India and Delhi University at Singapore Model United Nations 2019 (SMUN) held at the National University of Singapore (NUS) and won the Honorable Mention Award.
 
