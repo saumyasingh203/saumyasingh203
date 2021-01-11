@@ -29,12 +29,12 @@ I also represented India and Delhi University at Singapore Model United Nations 
 <code><img width="40px" src="https://img.icons8.com/color/2x/bootstrap.png" title="Bootstrap"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" title="javascript"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="mongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript-logo-1.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 
 ### 🌐 Connect with me 
 <code><img width="40px" href="https://www.linkedin.com/in/saumyasingh203/" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></code>
-<code><img width="40px" href="https://www.instagram.com/saumya._.singh" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Insta"/></code>
-<code><img width="40px" href="mailto:saumya.singh203@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Insta"/></code>
+<code><img width="40px" href="https://www.instagram.com/saumya._.singh" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></code>
+<code><img width="40px" href="mailto:saumya.singh203@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></code>
