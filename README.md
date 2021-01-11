@@ -3,7 +3,7 @@
 I'm a Tech and Coding enthusiast with a Bachelor of Engineering - BE focused in Electronics and Communication Engineering from Netaji Subhas Institute of Technology (NSIT).
 I also represented India and Delhi University at Singapore Model United Nations 2019 (SMUN) held at the National University of Singapore (NUS) and won the Honorable Mention Award.
 
-- 👨‍💻 Currently working as a **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/).
+- 👨‍💻 **Teaching Assistant** at [Coding Ninjas](https://www.codingninjas.com/).
 - 👨‍🎓 Electronics and Communication engineering sophomore at **NSUT, Delhi**.
 - 💡 **Currently exploring** Machine Learning.
 - 💬 **Ask me** about React, Javascript or anything related to latest tech.
