@@ -35,6 +35,6 @@ I also represented India and Delhi University at Singapore Model United Nations 
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 
 ### 🌐 Connect with me 
-<code><img width="40px" href="https://www.linkedin.com/in/saumyasingh203/" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></code>
+<a href="https://www.linkedin.com/in/saumyasingh203/"><img width="40px" href="https://www.linkedin.com/in/saumyasingh203/" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a>
 <code><img width="40px" href="https://www.instagram.com/saumya._.singh" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></code>
 <code><img width="40px" href="mailto:saumya.singh203@gmail.com" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></code>
