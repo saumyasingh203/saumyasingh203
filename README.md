@@ -12,7 +12,7 @@ I also represented India and Delhi University at Singapore Model United Nations 
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&theme=jolly&line_height=30&include_all_commits=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=java,php&theme=jolly&langs_count=8">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=matlab,php&theme=jolly&langs_count=8">
 </p>
 
 
