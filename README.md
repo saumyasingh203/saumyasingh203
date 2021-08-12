@@ -46,3 +46,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><a href="https://www.linkedin.com/in/saumyasingh203/"><img width="42px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
 <code><a href="https://www.instagram.com/saumya._.singh"><img width="42px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" title="Instagram"/></a></code>
 <code><a href="mailto:saumya.singh203@gmail.com"><img width="40px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=saumyasingh203&color=ff69b4)
