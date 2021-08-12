@@ -15,6 +15,11 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=f69673&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=matlab,php&title_color=f69673&icon_color=1b93c9&show_owner=true&langs_count=8">
+
+  <br>
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=orange" />
+  
+  
 </p>
 
 
@@ -49,4 +54,3 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=saumyasingh203&color=ff69b4)
