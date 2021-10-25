@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="50px"> Ciao, I'm Saumya! </h1>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="50px"> Ciao, I'm Saumya! </h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
 
@@ -13,11 +13,11 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <br>
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=f69673&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=matlab,php&title_color=f69673&icon_color=1b93c9&show_owner=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api?username=saumyasingh203&count_private=true&show_icons=true&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&line_height=30&include_all_commits=true">
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saumyasingh203&hide=matlab,php&title_color=fc5a8d&icon_color=1b93c9&show_owner=true&langs_count=8">
 
   <br>
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=orange" />
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=saumyasingh203&color=fc5a8d" />
   
   
 </p>
