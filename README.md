@@ -41,11 +41,14 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
 <code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
 
-<!-- ## <img src="https://media.giphy.com/media/bZmVvb3gFjtak149u1/giphy.gif" width="50px"> My Coding Profiles
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/saumyasingh203/practice)](https://auth.geeksforgeeks.org/user/saumyasingh203/practice)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white&link=https://auth.geeksforgeeks.org/user/saumyasingh203/practice)](https://auth.geeksforgeeks.org/user/saumyasingh203/practice)
-[![GeeksforGeeks Badge](https://run.kaist.ac.kr/badges/codeforces/jo_on.svg?style=for-the-badge&logo=CodeForces&logoColor=white&link=https://auth.geeksforgeeks.org/user/saumyasingh203/practice)](https://auth.geeksforgeeks.org/user/saumyasingh203/practice)
- -->
+
+
+## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px">My Coding Profiles!
+<a href="https://www.codechef.com/users/saumyasingh203/">![CodeChef Badge](https://cp-logo.vercel.app/codechef/saumyasingh203?logo=true) </a>
+<a href="https://codeforces.com/profile/saumya_singh203">![CodeForces Badge](https://cp-logo.vercel.app/codeforces/saumya_singh203?logo=true) </a>
+<a href="https://leetcode.com/saumyasingh203/">![LeetCode Badge](https://cp-logo.vercel.app/leetcode/saumyasingh203?logo=true)</a>
+
+ 
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px">Lets Connect!
 <code><a href="https://www.linkedin.com/in/saumyasingh203/"><img width="42px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="Linkedin"/></a></code>
