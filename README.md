@@ -1,4 +1,4 @@
-<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="50px"> Ciao, I'm Saumya! </h1>
+<h1 align = "center"><img src="https://emojis.slackmojis.com/emojis/images/1623587399/44665/kirby_hi.gif?1623587399" width="55px"> Ciao, I'm Saumya! </h1>
 
 I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, India. I am currently pursuing my Bachelor of Engineering degree in Electronics and Communication Engineering from Netaji Subhas Institute of Technology, New Delhi.
 
