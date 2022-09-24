@@ -5,7 +5,7 @@ I am a Tech and Coding enthusiast and a Software Developer based in New Delhi, I
 
 ## <img src="https://media.giphy.com/media/QXPqYpSyBIMjBTtBbl/giphy.gif" width="52px"> Experience: 
 
-- Incoming Software Engineer at **Google**.
+- Software Engineer at **Google**.
 - Former *SDE* intern at **Salesforce** where I was a part of their Security Infrastructure Team.
 - Was also a part of the **Microsoft** Codess Mentorship Program 2020.
 - Served as the *Web Lead* for **Google Developer Students Club** of NSUT.
